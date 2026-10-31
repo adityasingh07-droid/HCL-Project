@@ -1,0 +1,519 @@
+[
+  {
+    "category": "General",
+    "question": "What can you help me with?",
+    "answer": "I can help with general questions about academics, examinations, attendance, admissions, student services, scholarships, library, hostel, campus facilities, placements, and university procedures."
+  },
+  {
+    "category": "General",
+    "question": "Who are you?",
+    "answer": "I am an AI-powered University Student Support Assistant designed to help students find information about university services and procedures."
+  },
+  {
+    "category": "General",
+    "question": "How can I contact student support?",
+    "answer": "Students should contact the university student support office or the appropriate administrative department through the official university communication channels."
+  },
+  {
+    "category": "General",
+    "question": "Where can I find official university information?",
+    "answer": "Students should refer to the official university website, student portal, official notices, and university departments for current information."
+  },
+  {
+    "category": "General",
+    "question": "Can you access my personal student records?",
+    "answer": "No. This chatbot does not have access to private student records unless a secure university system is specifically integrated with it."
+  },
+
+  {
+    "category": "Academics",
+    "question": "What is the academic calendar?",
+    "answer": "The academic calendar contains important academic dates such as semester commencement, holidays, examinations, registration, and semester breaks. Students should check the latest official academic calendar."
+  },
+  {
+    "category": "Academics",
+    "question": "When does the semester start?",
+    "answer": "The semester start date depends on the university's academic calendar. Please check the latest official academic calendar or student portal."
+  },
+  {
+    "category": "Academics",
+    "question": "How can I register for courses?",
+    "answer": "Students should complete course registration through the university's prescribed registration process or student portal within the announced registration period."
+  },
+  {
+    "category": "Academics",
+    "question": "Can I change a subject after registration?",
+    "answer": "Subject changes may be permitted according to university regulations and within the specified period. Students should contact their academic department for confirmation."
+  },
+  {
+    "category": "Academics",
+    "question": "How can I contact my department?",
+    "answer": "Students can contact their department office, department coordinator, faculty advisor, or official department communication channel."
+  },
+  {
+    "category": "Academics",
+    "question": "What is a credit?",
+    "answer": "A credit is a unit used to represent the academic workload or learning requirement of a course. The exact credit structure depends on the university and program."
+  },
+  {
+    "category": "Academics",
+    "question": "What is CGPA?",
+    "answer": "CGPA stands for Cumulative Grade Point Average. It represents a student's overall academic performance across completed semesters according to the university grading system."
+  },
+  {
+    "category": "Academics",
+    "question": "What is SGPA?",
+    "answer": "SGPA stands for Semester Grade Point Average. It represents academic performance for a particular semester."
+  },
+  {
+    "category": "Academics",
+    "question": "How is CGPA calculated?",
+    "answer": "CGPA is generally calculated using grade points and credits across courses and semesters according to the university's prescribed academic regulations."
+  },
+  {
+    "category": "Academics",
+    "question": "What happens if I fail a subject?",
+    "answer": "Students who fail a subject may need to appear for a supplementary, back-paper, or re-examination according to university regulations."
+  },
+  {
+    "category": "Academics",
+    "question": "What is a backlog?",
+    "answer": "A backlog generally refers to a course or subject that a student has not successfully completed and must clear through the university's prescribed examination process."
+  },
+
+  {
+    "category": "Attendance",
+    "question": "What are the attendance requirements?",
+    "answer": "Students must follow the attendance requirements specified by their university and program. The exact minimum percentage should be confirmed from the latest official academic regulations."
+  },
+  {
+    "category": "Attendance",
+    "question": "How can I check my attendance?",
+    "answer": "Students can check attendance through the official student portal if attendance information is available online, or contact their department or faculty advisor."
+  },
+  {
+    "category": "Attendance",
+    "question": "What happens if my attendance is low?",
+    "answer": "Low attendance may affect eligibility for examinations or academic progression depending on university regulations. Students should contact their department as soon as possible."
+  },
+  {
+    "category": "Attendance",
+    "question": "Can medical leave affect attendance requirements?",
+    "answer": "Medical leave may be considered according to university rules and documentation requirements. Students should submit valid documents to the appropriate authority."
+  },
+  {
+    "category": "Attendance",
+    "question": "Can attendance shortage be condoned?",
+    "answer": "Attendance shortage may or may not be condoned depending on university regulations and applicable circumstances. Students should contact the concerned department."
+  },
+  {
+    "category": "Attendance",
+    "question": "What should I do if my attendance is incorrectly recorded?",
+    "answer": "Students should contact the concerned faculty member or department office and provide relevant information or evidence for verification."
+  },
+
+  {
+    "category": "Examinations",
+    "question": "When are semester examinations conducted?",
+    "answer": "Semester examination dates are announced through the official examination schedule or academic calendar. Students should check the latest official notification."
+  },
+  {
+    "category": "Examinations",
+    "question": "Where can I find the examination timetable?",
+    "answer": "The examination timetable is generally published on the official university website, examination portal, student portal, or department notice system."
+  },
+  {
+    "category": "Examinations",
+    "question": "How can I download my admit card?",
+    "answer": "Students can download the examination admit card from the official examination or student portal when it becomes available."
+  },
+  {
+    "category": "Examinations",
+    "question": "What should I do if I cannot download my admit card?",
+    "answer": "Students should first verify their registration and fee status and then contact the examination department if the issue continues."
+  },
+  {
+    "category": "Examinations",
+    "question": "What documents should I bring to an examination?",
+    "answer": "Students should carry the documents specified in the official examination instructions, such as an admit card and valid student identification."
+  },
+  {
+    "category": "Examinations",
+    "question": "What happens if I miss an examination?",
+    "answer": "The consequences of missing an examination depend on university examination regulations. Students should contact the examination department immediately."
+  },
+  {
+    "category": "Examinations",
+    "question": "Can I apply for revaluation?",
+    "answer": "Many universities provide a revaluation or review process within a specified period. Students should check the official examination notification for eligibility and procedure."
+  },
+  {
+    "category": "Examinations",
+    "question": "How can I apply for revaluation?",
+    "answer": "If revaluation is available, students generally need to submit an application through the prescribed examination portal and pay any applicable fee within the specified deadline."
+  },
+  {
+    "category": "Examinations",
+    "question": "What is a supplementary examination?",
+    "answer": "A supplementary examination provides eligible students an opportunity to clear certain failed or incomplete courses according to university rules."
+  },
+  {
+    "category": "Examinations",
+    "question": "How can I check my examination result?",
+    "answer": "Students can check results through the official university result portal or student portal after results are officially released."
+  },
+  {
+    "category": "Examinations",
+    "question": "What should I do if there is an error in my result?",
+    "answer": "Students should contact the examination department and follow the prescribed process for reporting and correcting result discrepancies."
+  },
+
+  {
+    "category": "Leave",
+    "question": "What is the procedure for applying for leave?",
+    "answer": "Students should submit a leave application through the prescribed university or department process and obtain approval from the appropriate authority."
+  },
+  {
+    "category": "Leave",
+    "question": "Can I apply for medical leave?",
+    "answer": "Medical leave may be available according to university regulations. Students may be required to submit appropriate medical documentation."
+  },
+  {
+    "category": "Leave",
+    "question": "Whom should I contact for leave approval?",
+    "answer": "Students should contact their faculty advisor, department office, or the authority specified in the university leave procedure."
+  },
+  {
+    "category": "Leave",
+    "question": "Can I apply for leave after being absent?",
+    "answer": "The procedure for post-absence leave applications depends on university rules. Students should contact the relevant department as soon as possible."
+  },
+
+  {
+    "category": "Admission",
+    "question": "How can I apply for admission?",
+    "answer": "Students should apply through the official university admission portal or prescribed admission process and follow the instructions for their selected program."
+  },
+  {
+    "category": "Admission",
+    "question": "What documents are generally required for admission?",
+    "answer": "Documents may include academic marksheets, certificates, identity proof, photographs, transfer or migration documents, and category certificates where applicable. The exact list depends on the program and university."
+  },
+  {
+    "category": "Admission",
+    "question": "What are the eligibility requirements?",
+    "answer": "Eligibility requirements vary by program. Students should check the official admission notification for the selected course."
+  },
+  {
+    "category": "Admission",
+    "question": "Can I apply for more than one course?",
+    "answer": "The ability to apply for multiple programs depends on the university admission system and its rules."
+  },
+  {
+    "category": "Admission",
+    "question": "How can I check my admission application status?",
+    "answer": "Students can generally check application status through the official admission portal using their application credentials."
+  },
+  {
+    "category": "Admission",
+    "question": "What happens after submitting an admission application?",
+    "answer": "Students should monitor the official admission portal and registered communication channels for verification, selection, counselling, or further instructions."
+  },
+  {
+    "category": "Admission",
+    "question": "Can I cancel my admission?",
+    "answer": "Admission cancellation is subject to university rules and the applicable withdrawal and refund policy. Students should contact the admission office."
+  },
+
+  {
+    "category": "Fees",
+    "question": "How can I pay my university fees?",
+    "answer": "Students should use the payment methods provided by the official university fee portal or finance department."
+  },
+  {
+    "category": "Fees",
+    "question": "Where can I check my fee details?",
+    "answer": "Students can check fee details through the official student portal, fee portal, admission documents, or finance department."
+  },
+  {
+    "category": "Fees",
+    "question": "What happens if I miss the fee payment deadline?",
+    "answer": "Late payment may result in additional charges or other consequences depending on university rules. Students should contact the finance department."
+  },
+  {
+    "category": "Fees",
+    "question": "Can I request a fee payment extension?",
+    "answer": "Students may request an extension if the university permits it. Such requests are generally handled by the finance or administration department."
+  },
+  {
+    "category": "Fees",
+    "question": "How can I get a fee receipt?",
+    "answer": "Fee receipts can generally be downloaded from the university fee portal or requested from the finance department."
+  },
+  {
+    "category": "Fees",
+    "question": "What is the university refund policy?",
+    "answer": "Refund policies vary by university and program. Students should check the latest official refund and withdrawal guidelines."
+  },
+
+  {
+    "category": "Scholarships",
+    "question": "Does the university provide scholarships?",
+    "answer": "Universities may offer merit-based, need-based, sports, category-based, or other scholarships. Students should check the official scholarship information for available schemes."
+  },
+  {
+    "category": "Scholarships",
+    "question": "How can I apply for a scholarship?",
+    "answer": "Students should apply through the university scholarship process or the applicable official scholarship portal."
+  },
+  {
+    "category": "Scholarships",
+    "question": "What documents are required for a scholarship?",
+    "answer": "Documents vary by scholarship and may include academic records, identity documents, income certificates, category certificates, bank details, and other supporting documents."
+  },
+  {
+    "category": "Scholarships",
+    "question": "Can I apply for more than one scholarship?",
+    "answer": "Whether students can receive or apply for multiple scholarships depends on the rules of the respective scholarship schemes."
+  },
+  {
+    "category": "Scholarships",
+    "question": "Where can I find scholarship deadlines?",
+    "answer": "Students should check the official university scholarship notices and relevant government or scholarship portals for current deadlines."
+  },
+
+  {
+    "category": "Library",
+    "question": "Where is the university library?",
+    "answer": "Students should check the official campus map or university website for the current library location."
+  },
+  {
+    "category": "Library",
+    "question": "What are the library timings?",
+    "answer": "Library timings vary by university and may change during examinations, holidays, or special periods. Students should check the latest official library notice."
+  },
+  {
+    "category": "Library",
+    "question": "How can I borrow a library book?",
+    "answer": "Students generally need a valid student or library ID and must follow the library's borrowing procedure."
+  },
+  {
+    "category": "Library",
+    "question": "How many books can I borrow?",
+    "answer": "The number of books a student can borrow depends on the library rules and student category."
+  },
+  {
+    "category": "Library",
+    "question": "What happens if I return a library book late?",
+    "answer": "Late returns may result in fines or other restrictions according to library rules."
+  },
+  {
+    "category": "Library",
+    "question": "How can I renew a library book?",
+    "answer": "If renewal is permitted, students can renew books through the library portal or by contacting the library."
+  },
+  {
+    "category": "Library",
+    "question": "Can I access digital library resources?",
+    "answer": "Universities may provide access to digital books, journals, databases, and other electronic resources through the library portal."
+  },
+
+  {
+    "category": "Hostel",
+    "question": "Does the university provide hostel facilities?",
+    "answer": "Hostel availability depends on the university and available accommodation. Students should contact the hostel administration for current information."
+  },
+  {
+    "category": "Hostel",
+    "question": "How can I apply for a hostel?",
+    "answer": "Students should apply through the official hostel application process within the announced application period."
+  },
+  {
+    "category": "Hostel",
+    "question": "What documents are required for hostel admission?",
+    "answer": "Required documents depend on university hostel rules and may include admission documents, identity proof, photographs, and medical or other forms."
+  },
+  {
+    "category": "Hostel",
+    "question": "What are the hostel rules?",
+    "answer": "Hostel rules generally cover discipline, visitor access, timings, cleanliness, safety, and use of facilities. Students should follow the official hostel handbook."
+  },
+  {
+    "category": "Hostel",
+    "question": "How can I report a hostel problem?",
+    "answer": "Students should report hostel issues to the hostel warden, hostel office, or designated maintenance/support system."
+  },
+  {
+    "category": "Hostel",
+    "question": "Are hostel facilities available for all students?",
+    "answer": "Hostel accommodation depends on availability, eligibility, and university allocation rules."
+  },
+
+  {
+    "category": "Student Services",
+    "question": "How can I get a student ID card?",
+    "answer": "Students should contact the designated student administration or ID card office and follow the prescribed process."
+  },
+  {
+    "category": "Student Services",
+    "question": "What should I do if I lose my student ID card?",
+    "answer": "Students should report the lost ID card to the appropriate university office and request a replacement according to university rules."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I get a bonafide certificate?",
+    "answer": "Students should apply through the university's prescribed certificate request process or student portal."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I get a character certificate?",
+    "answer": "Students should contact the appropriate administrative department and follow the university's certificate application process."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I get a migration certificate?",
+    "answer": "Students should contact the university administration or examination department and follow the prescribed migration certificate procedure."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I update my personal information?",
+    "answer": "Students should update information through the official student portal if the option is available or contact student administration."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I change my registered mobile number?",
+    "answer": "Students should update their contact information through the official student portal or contact student administration."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I reset my student portal password?",
+    "answer": "Students should use the portal's password reset option or contact the university IT helpdesk if they cannot reset it."
+  },
+
+  {
+    "category": "IT Support",
+    "question": "What should I do if the student portal is not working?",
+    "answer": "Check your internet connection and try again. If the issue continues, contact the university IT helpdesk with details of the problem."
+  },
+  {
+    "category": "IT Support",
+    "question": "What should I do if I forgot my student portal password?",
+    "answer": "Use the password recovery option on the student portal. If recovery is unavailable, contact the university IT helpdesk."
+  },
+  {
+    "category": "IT Support",
+    "question": "How can I get university Wi-Fi access?",
+    "answer": "Students should follow the university IT department's instructions for connecting to the campus Wi-Fi network."
+  },
+  {
+    "category": "IT Support",
+    "question": "How can I access my university email?",
+    "answer": "Students should use the university-provided email portal and the credentials issued by the institution."
+  },
+
+  {
+    "category": "Placements",
+    "question": "Does the university provide placement assistance?",
+    "answer": "Many universities provide placement or career support through a dedicated placement or career development cell. Students should check their university's official placement information."
+  },
+  {
+    "category": "Placements",
+    "question": "How can I register for placements?",
+    "answer": "Students should register through the official placement portal or placement cell according to the announced recruitment process."
+  },
+  {
+    "category": "Placements",
+    "question": "What are the eligibility requirements for placements?",
+    "answer": "Eligibility varies by company and recruitment drive. Students should check the official placement notification for each opportunity."
+  },
+  {
+    "category": "Placements",
+    "question": "Where can I find placement notifications?",
+    "answer": "Placement notifications are generally shared through the placement portal, student portal, official email, or placement cell communication channels."
+  },
+  {
+    "category": "Placements",
+    "question": "Does the placement cell provide career guidance?",
+    "answer": "Career guidance may include resume preparation, aptitude training, technical preparation, communication skills, mock interviews, and career counselling."
+  },
+
+  {
+    "category": "Campus",
+    "question": "What facilities are available on campus?",
+    "answer": "Campus facilities vary by university but may include classrooms, laboratories, library, sports facilities, cafeteria, student support offices, medical facilities, and hostels."
+  },
+  {
+    "category": "Campus",
+    "question": "Where can I find the campus map?",
+    "answer": "Students should check the official university website, campus information portal, or reception/helpdesk for the campus map."
+  },
+  {
+    "category": "Campus",
+    "question": "Is there a medical facility on campus?",
+    "answer": "Students should check the official university information for available medical facilities and emergency support."
+  },
+  {
+    "category": "Campus",
+    "question": "Where can I report a campus maintenance problem?",
+    "answer": "Students should report maintenance problems to the designated maintenance office, administration, campus helpdesk, or official reporting system."
+  },
+  {
+    "category": "Campus",
+    "question": "Are sports facilities available?",
+    "answer": "Sports facilities vary by university. Students should check the official campus facilities information or contact the sports department."
+  },
+
+  {
+    "category": "Student Clubs",
+    "question": "Are student clubs available?",
+    "answer": "Many universities have academic, technical, cultural, literary, sports, and social clubs. Students should check the official student activities information."
+  },
+  {
+    "category": "Student Clubs",
+    "question": "How can I join a student club?",
+    "answer": "Students can join clubs through the club registration process or by contacting the relevant student activity coordinator."
+  },
+  {
+    "category": "Student Clubs",
+    "question": "Can students create a new club?",
+    "answer": "Students may be able to create a new club subject to university approval and applicable student activity rules."
+  },
+
+  {
+    "category": "Complaints",
+    "question": "How can I submit a university complaint?",
+    "answer": "Students should use the official grievance or complaint system provided by the university or contact the relevant department."
+  },
+  {
+    "category": "Complaints",
+    "question": "How can I report a problem with a course?",
+    "answer": "Students should first contact the course instructor or faculty advisor. If the issue remains unresolved, they can approach the department or designated grievance authority."
+  },
+  {
+    "category": "Complaints",
+    "question": "How can I report a campus safety issue?",
+    "answer": "Students should immediately report safety concerns to campus security, administration, or the designated emergency contact according to university procedures."
+  },
+
+  {
+    "category": "International Students",
+    "question": "Does the university support international students?",
+    "answer": "Universities may provide international student support for admission, documentation, orientation, accommodation, and academic matters. Students should contact the international student office if available."
+  },
+  {
+    "category": "International Students",
+    "question": "Where can international students get help?",
+    "answer": "International students should contact the university's international student office or designated student support team."
+  },
+
+  {
+    "category": "Emergency",
+    "question": "What should I do in a campus emergency?",
+    "answer": "In an emergency, students should immediately contact campus security or the university's official emergency service and follow campus safety instructions."
+  },
+  {
+    "category": "Emergency",
+    "question": "How can I report an emergency?",
+    "answer": "Students should use the university's official emergency contact system or contact campus security immediately."
+  }
+]
