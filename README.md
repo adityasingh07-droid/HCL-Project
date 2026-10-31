@@ -1,4 +1,4 @@
-# 🎓 UniGuide AI — University Campus & Student Support Assistant 2.0
+# 🎓 UniGuide AI — University Campus & Student Support Assistant 
 
 An AI-powered campus support ecosystem built with **FastAPI**, **Google Gemini 3.5 Flash**, **React 19**, and **Vite**. UniGuide delivers contextual answers for students across academics, examinations, attendance, hostel accommodation, fee structures, scholarships, placements, and campus emergencies.
 
